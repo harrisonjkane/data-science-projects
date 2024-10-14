@@ -56,6 +56,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 If you have any questions or feedback, feel free to reach out:
 - Email: harrkane@umich.edu
-- Github: harrkane (https://github.com/harrkane
+- Github: harrkane (https://github.com/harrkane)
    
 
