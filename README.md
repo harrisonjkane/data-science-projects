@@ -8,4 +8,18 @@ In this project, I perform exploratory data analysis (EDA), data preprocessing, 
 ## Project Structure
 - **__Notebooks__**: Contains Jupyter notebooks for data exploration, preprocessing, and model building.
 - **__Data__**: Placeholder for datasets used in the project. (_Note: If datasets are large, they are not stored in the respository._)
-- **__SCRIPTS__**: Contains Python scripts for data loading, model training, and evaluation.
+- **__Scripts__**: Contains Python scripts for data loading, model training, and evaluation.
+
+## Installation
+To run this project locally, follow these steps:
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/harrkane/data-science-projects.git
+   ```
+2. Create and activate a virtual environment or conda environment:
+   ```bash
+   conda create --name ds_env python=3.9
+   conda activate ds_env
+   ```
+
